@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
                       '9861686237',
                       style: TextStyle(
                         color: Colors.teal.shade900,
-                        fontSize: 20.0,
+                        fontSize: 22.0,
                       ),
                     ),
                   )),
