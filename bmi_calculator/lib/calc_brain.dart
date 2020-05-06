@@ -14,7 +14,7 @@ class CalcBrain {
   }
 
   String description() {
-    if (_bmi >= 25) {
+    if (_bmi >= 23) {
       return 'Overweight';
     } else if (_bmi > 18.5) {
       return 'Normal';
