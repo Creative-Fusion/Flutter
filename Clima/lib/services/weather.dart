@@ -19,7 +19,6 @@ class WeatherModel {
 
     var weatherData=await networkHelper.getData();
 
-    print(weatherData);
     return weatherData;
   }
 
